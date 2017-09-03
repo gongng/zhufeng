@@ -1,10 +1,10 @@
-##or push an existing repository from the command line
+## or push an existing repository from the command line
 ```
 git remote add origin git@github.com:gongng/zhufeng.git
 git push -u origin master
 ```
 
-##or create a new repository on the command line
+## or create a new repository on the command line
 ```
 echo "# zhufeng" >> README.md
 git init
